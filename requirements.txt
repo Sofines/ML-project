@@ -1,0 +1,10 @@
+transformers
+torch
+pandas
+scikit-learn
+matplotlib
+seaborn
+debugpy
+requests
+tabulate
+h2o
